@@ -218,3 +218,5 @@ __marimo__/
 .streamlit/secrets.toml
 # Official ML Zoomcamp course
 zoomcamp/
+# Notes of the week1(intro)
+notes-week1/
